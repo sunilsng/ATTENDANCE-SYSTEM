@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Keep the old page URL working
+[[redirects]]
+  from = "/modern_attendance_system.html"
+  to = "/"
+  status = 301
